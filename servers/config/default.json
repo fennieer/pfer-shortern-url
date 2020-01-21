@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://fennieer:nakedPei@clustershorurl-56i2e.mongodb.net/test?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:2020"
+}

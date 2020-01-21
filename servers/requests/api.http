@@ -1,0 +1,6 @@
+POST http://localhost:2020/api/url/shorten
+Content-Type: application/json
+
+{
+    "longUrl": "https://www.lazada.com.my/products/acer-aspire-5-a514-52g-58mm-14-laptop-pure-silver-i5-10210u-4gb-512gb-ssd-geforce-mx250-w10-i589962689-s1190328710.html?spm=a2o4k.searchlistcategory.list.10.2772524blINmsm&search=1"
+}
